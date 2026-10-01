@@ -1,0 +1,9 @@
+EMAIL Boss,Good one,02-01-2025
+EMAIL Stranger,Bad category,02-02-2025
+EMAIL Boss,Bad month,13-01-2025
+EMAIL Boss,Trailing junk,02-03-2025abc
+EMAIL Boss,Short date,2-3-25
+EMAIL Boss,Missing date
+EMAIL Boss
+COUNT
+NEXT
